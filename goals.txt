@@ -1,0 +1,1 @@
+To successfully transition from engineering to programming, my primary goal is to achieve technical mastery by first automating system-level tasks using PowerShell and managing code versions through GitHub. Building on my mathematical background, I aim to master a back-end language like Python to build functional RESTful APIs
